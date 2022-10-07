@@ -6,7 +6,7 @@ import OneSignal from 'react-native-onesignal';
 export default function App() {
   useEffect(() => {
     // OneSignal Initialization
-    OneSignal.setAppId('d7e1d4f4-afe0-4267-8d89-6dead6d37861');
+    OneSignal.setAppId('48a77856-459d-4f80-8dc2-77eb9f89bc18');
 
     // promptForPushNotificationsWithUserResponse will show the native iOS or Android notification permission prompt.
     // We recommend removing the following code and instead using an In-App Message to prompt for notification permission (See step 8)
